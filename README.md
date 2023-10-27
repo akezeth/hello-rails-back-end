@@ -104,7 +104,7 @@ it will install the required gemfile for running the project
 
 ## 👥 Authors <a name="author"></a>
 
-👤 **Cosywasswa**
+👤 **Aklilu Mekonnen**
 
 - GitHub: [@akezeth](https://github.com/cosywasswa)
 
