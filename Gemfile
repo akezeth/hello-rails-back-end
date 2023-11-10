@@ -14,7 +14,7 @@ gem 'puma', '~> 5.0'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
 
-gem 'rack-cors', :require => 'rack/cors'
+gem 'rack-cors', require: 'rack/cors'
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
